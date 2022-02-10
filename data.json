@@ -1,0 +1,34 @@
+{
+    "total": 1000,
+    "pass": 900,
+    "fail": 100,
+    "testcases": [
+        {
+            "input": "...",
+            "name": "ABM",
+            "description": "none",
+            "duration": 23,
+            "status": "pass",
+            "error_message": "success",
+            "step": []
+        },
+        {
+            "input": "...",
+            "name": "ABM",
+            "description": "none",
+            "duration": 23,
+            "status": "pass",
+            "error_message": "success",
+            "step": ["1", "2"]
+        },
+        {
+            "input": "...",
+            "name": "ABM",
+            "description": "none",
+            "duration": 23,
+            "status": "pass",
+            "error_message": "success",
+            "step": ["1", "2"]
+        }
+    ]
+}
